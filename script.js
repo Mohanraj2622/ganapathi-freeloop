@@ -53,13 +53,13 @@ function setupMediaSession() {
 const SONGS = [
   // 1 list
   {
-    title: "ஒன்பது_கோளும்_முதல்_முறையாக",
+    title: "ஒன்பது_கோளும்",
     artist: "vinayagar",
     url: "ஒன்பது_கோளும்___முதல்_முறையாக_முழு_பாடல்_வரிகளுடன்___Onbathu_Kolum_Lyric_Video_Tamil___English(256k).mp3",
     coverUrl: "ganapathi-3.jpg",
   },
   {
-    title: "அப்பா_அப்பா_கணேசா__Vinayagar_Song",
+    title: "அப்பா_அப்பா_கணேசா",
     artist: "vinayagar",
     url: "Appa_Appa_Ganesha___Srihari___அப்பா_அப்பா_கணேசா__Vinayagar_Song(256k).mp3",
     coverUrl: "ganapathhi-4.jpg",
@@ -84,13 +84,13 @@ const SONGS = [
     coverUrl: "ganapathi-5.jpg",
   },
   {
-    title: "Samy_Romba_Sirusaiya_Sakthi_Romba_Perumaiya",
+    title: "Samy_Romba_Sirusaiya",
     artist: "vinayagar",
     url: "Samy_Romba_Sirusaiya_Sakthi_Romba_Perumaiya____Ayyappan_Song_in_Tamil____@SivanBeatz_47(256k).mp3",
     coverUrl: "ganapathi-2.jpg",
   },
   {
-    title: "sokkanathan_petredutha_pillaiyaram_pillaiyar",
+    title: "sokkanathan_petredutha",
     artist: "vinayagar",
     url: "sokkanathan_petredutha_pillaiyaram_pillaiyar_or_vinayagar_special_view_songs.(256k).mp3",
     coverUrl: "ganapathhi-4.jpg",
